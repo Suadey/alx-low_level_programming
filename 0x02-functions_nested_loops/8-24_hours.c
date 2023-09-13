@@ -1,10 +1,10 @@
-#inlcude "main.h"
+#include "main.h"
 /**
  * jack_bauer - Prints the minutes of a day
  *
  * Return: no return
  */
-void jack_baur(void)
+void jack_bauer(void)
 {
 	int a, b, c, d;
 

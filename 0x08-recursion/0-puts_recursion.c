@@ -4,8 +4,8 @@
  * @s: parameter of the function
  * Return: Always 0 (Success)
  */
-
 void _puts_recursion(char *s)
+//Function put recursion
 {
 	if (*s)
 	{

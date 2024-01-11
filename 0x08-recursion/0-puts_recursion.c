@@ -1,11 +1,12 @@
 #include "main.h"
 /**
- * _put_recursion - function name
- * @s: parameter of the function
- * Return: Always 0 (Success)
+ * _puts_recursion - Prints a string followed by a new line
+ * @s: string
+ *
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
  */
 void _puts_recursion(char *s)
-//Function put recursion
 {
 	if (*s)
 	{
